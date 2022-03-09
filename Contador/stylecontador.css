@@ -1,0 +1,38 @@
+*{
+   
+    margin:1rem;
+}
+h1{
+    text-align: center;
+    letter-spacing: 20px;
+    
+}
+.numero{
+    padding: 2rem;
+    text-align: center;
+    font-size: 7rem;
+    color: white;
+}
+.content-contador{
+    margin: 2rem;
+    background-color: #0e8b38;
+    text-align: center;
+    border-radius: 16px;
+   
+    -webkit-box-shadow: 0 10px 6px -6px #777;
+    -moz-box-shadow: 0 10px 6px -6px #777;
+    box-shadow: 0 10px 6px -6px #777;
+}
+.boton{
+    padding: 1rem 2rem;
+    border-radius: 24px;
+    background-color: #0e8b38;
+    border: 2px solid white;
+    color: white;
+    font-size: 15px;
+    
+}
+.boton:hover{
+    background-color: white;
+    color: black;
+}

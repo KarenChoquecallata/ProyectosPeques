@@ -1,0 +1,36 @@
+*{
+    font-family: 'Sansita Swashed', cursive;
+}
+.content-color{
+    margin: 1rem;
+    padding: 1rem;
+    text-align: auto;
+    border-radius: 8px;
+    box-shadow: 0px 8px 8px -6px #000000;
+}
+.numero-color{
+    text-align: center;
+}
+.content-boton{
+    text-align: center;
+}
+button{
+    margin: 1rem;
+    padding: 12px 60px; 
+    border-radius: 8px;   
+    background-color: black;
+    color: aliceblue;
+    box-shadow: 4px 5px 20px -5px #242323;
+}
+h2{
+    text-align: center;
+   
+    border-radius: 8px;
+    margin: 1rem 5rem;
+    padding: 0.5rem;
+}
+button:hover{
+    background-color: #848580c5;
+    color: black;
+    border: 1px solid #848580c5;
+}
